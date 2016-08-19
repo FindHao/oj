@@ -47,7 +47,8 @@
 .idea/sqlDataSources.xml
 .idea/dynamic.xml
 .idea/uiDesigner.xml
-
+.idea/
+CMakeLists.txt
 # Gradle:
 .idea/gradle.xml
 .idea/libraries
@@ -96,3 +97,4 @@ fabric.properties
 *.su
 将删除 .gitignore
 将删除 .idea/vcs.xml
+将删除 noi6264migong.cpp
